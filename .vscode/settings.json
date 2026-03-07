@@ -1,6 +1,5 @@
 {
   // --- C# / .NET 設定 ---
-  "dotnet.defaultSolution": "SelfCSharp.sln",
   "dotnet.server.useOmnisharp": false, // C# Dev Kit の LSP を使用
 
   // --- フォーマット設定 ---
